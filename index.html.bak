@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Patel Construction - Premium residential and commercial construction, interior design, renovation and architectural solutions in Kanpur and nearby cities.">
+  <meta name="keywords" content="construction company Kanpur, interior design Kanpur, residential construction, commercial construction, home construction, renovation Kanpur, Patel Construction">
+  <meta name="author" content="Patel Construction">
+  <meta property="og:title" content="Patel Construction | Building Spaces. Creating Lifestyles.">
+  <meta property="og:description" content="Premium construction and interior solutions for residential and commercial spaces.">
+  <meta property="og:type" content="website">
+  <title>Patel Construction | Building Spaces. Creating Lifestyles.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header" id="header">
+  <div class="container nav">
+    <a href="#home" class="brand">
+      <span class="brand-mark">PC</span>
+      <span>
+        <strong>PATEL</strong>
+        <small>CONSTRUCTION</small>
+      </span>
+    </a>
+
+    <button class="menu-toggle" aria-label="Open menu"><span></span><span></span><span></span></button>
+
+    <nav class="nav-links">
+      <a href="#home" class="active">Home</a>
+      <a href="#about">About Us</a>
+      <a href="#services">Services</a>
+      <a href="#projects">Projects</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#contact">Contact</a>
+    </nav>
+
+    <div class="nav-right">
+      <a class="phone" href="tel:+917985230018">☎ +91 79852 30018</a>
+      <a href="#contact" class="btn btn-gold">Get a Quote <span>→</span></a>
+    </div>
+  </div>
+</header>
+
+<main>
+<section class="hero" id="home">
+  <div class="hero-overlay"></div>
+  <div class="container hero-content">
+    <div class="eyebrow">WELCOME TO PATEL CONSTRUCTION</div>
+    <h1>Building Dreams,<br><em>Creating Beautiful Spaces</em></h1>
+    <p>We design and build high-quality residential and commercial spaces with precision, innovation and a commitment to excellence.</p>
+    <div class="hero-buttons">
+      <a href="#services" class="btn btn-gold">Explore Our Services <span>→</span></a>
+      <a href="#projects" class="btn btn-outline">View Our Projects <span>▶</span></a>
+    </div>
+  </div>
+  <div class="hero-side">YOUR VISION<br><em>OUR CONSTRUCTION</em></div>
+  <div class="hero-scroll">SCROLL TO EXPLORE <span>↓</span></div>
+</section>
+
+<section class="services section" id="services">
+  <div class="container">
+    <div class="section-head split">
+      <div>
+        <div class="eyebrow dark">OUR SERVICES</div>
+        <h2>What We <em>Do</em></h2>
+      </div>
+      <div>
+        <p>From modern architectural designs to premium interiors, we deliver end-to-end solutions for your dream spaces.</p>
+        <a href="#contact" class="text-link">Discuss Your Project →</a>
+      </div>
+    </div>
+
+    <div class="service-grid">
+      <article class="service-card">
+        <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=900&q=85" alt="Residential construction">
+        <div class="service-body"><span class="icon">⌂</span><h3>Residential Construction</h3><p>Modern homes built with thoughtful planning, quality materials and lasting craftsmanship.</p><a href="#contact">Explore →</a></div>
+      </article>
+      <article class="service-card">
+        <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=85" alt="Commercial construction">
+        <div class="service-body"><span class="icon">▦</span><h3>Commercial Construction</h3><p>Functional and aesthetic spaces engineered for businesses, offices and commercial needs.</p><a href="#contact">Explore →</a></div>
+      </article>
+      <article class="service-card">
+        <img src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=900&q=85" alt="Interior design">
+        <div class="service-body"><span class="icon">◇</span><h3>Interior Design</h3><p>Elegant interiors that balance comfort, character, functionality and your personal style.</p><a href="#contact">Explore →</a></div>
+      </article>
+      <article class="service-card">
+        <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=900&q=85" alt="Renovation">
+        <div class="service-body"><span class="icon">✦</span><h3>Renovation & Upgradation</h3><p>Give your existing space a fresh identity through smart renovation and upgrades.</p><a href="#contact">Explore →</a></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="projects section dark-section" id="projects">
+  <div class="container">
+    <div class="section-head split light">
+      <div>
+        <div class="eyebrow">FEATURED PROJECTS</div>
+        <h2>Our Latest <em>Works</em></h2>
+      </div>
+      <div><p>Explore selected construction and interior projects crafted with precision and attention to detail.</p><a href="#gallery" class="btn btn-outline">View All Projects →</a></div>
+    </div>
+
+    <div class="project-grid">
+      <article class="project-card large">
+        <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1400&q=90" alt="Modern villa">
+        <div><span>RESIDENTIAL • KANPUR</span><h3>Modern Villa</h3><a href="#contact">View Project →</a></div>
+      </article>
+      <article class="project-card">
+        <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1000&q=90" alt="Office space">
+        <div><span>COMMERCIAL • LUCKNOW</span><h3>Executive Office</h3><a href="#contact">View Project →</a></div>
+      </article>
+      <article class="project-card">
+        <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1000&q=90" alt="Living room interior">
+        <div><span>INTERIOR • ALLAHABAD</span><h3>Luxury Living Room</h3><a href="#contact">View Project →</a></div>
+      </article>
+      <article class="project-card">
+        <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1000&q=90" alt="Luxury home">
+        <div><span>RESIDENTIAL • KANPUR</span><h3>Luxury Residence</h3><a href="#contact">View Project →</a></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="about section" id="about">
+  <div class="container about-grid">
+    <div class="about-images">
+      <img class="about-main" src="https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1000&q=90" alt="Modern house">
+      <img class="about-small" src="https://images.unsplash.com/photo-1600210491369-e753d80a41f3?auto=format&fit=crop&w=700&q=90" alt="Interior">
+      <div class="experience"><strong>10+</strong><span>Years of<br>Experience</span></div>
+    </div>
+    <div class="about-copy">
+      <div class="eyebrow dark">ABOUT US</div>
+      <h2>We Build More Than <em>Just Spaces</em></h2>
+      <p>Patel Construction is a construction and interior solutions company focused on creating residential and commercial spaces that are functional, elegant and built to last.</p>
+      <div class="check-list">
+        <div>✓ <span>Expert Team & Skilled Professionals</span></div>
+        <div>✓ <span>On-Time Project Delivery</span></div>
+        <div>✓ <span>Premium Quality Materials</span></div>
+        <div>✓ <span>Transparent Project Process</span></div>
+      </div>
+      <a href="#contact" class="btn btn-dark">Learn More <span>→</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="stats">
+  <div class="container stats-grid">
+    <div><strong>250<span>+</span></strong><small>Projects Completed</small></div>
+    <div><strong>150<span>+</span></strong><small>Happy Clients</small></div>
+    <div><strong>10<span>+</span></strong><small>Years Experience</small></div>
+    <div><strong>100<span>%</span></strong><small>Quality Commitment</small></div>
+  </div>
+</section>
+
+<section class="gallery section" id="gallery">
+  <div class="container">
+    <div class="section-head">
+      <div class="eyebrow dark">PROJECT GALLERY</div>
+      <h2>Designed With <em>Purpose</em></h2>
+    </div>
+    <div class="gallery-grid">
+      <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1000&q=90" alt="Interior design">
+      <img src="https://images.unsplash.com/photo-1600585153490-76fb20a32601?auto=format&fit=crop&w=1000&q=90" alt="House exterior">
+      <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=90" alt="Living room">
+      <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1000&q=90" alt="Office">
+      <img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1000&q=90" alt="Bedroom">
+      <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=90" alt="Luxury interior">
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="container cta-inner">
+    <div><div class="eyebrow">LET'S BUILD TOGETHER</div><h2>Your Dream Space Starts <em>Here.</em></h2><p>Have a project in mind? Tell us what you're planning and our team will help turn the vision into reality.</p></div>
+    <a href="#contact" class="btn btn-gold">Start Your Project →</a>
+  </div>
+</section>
+
+<section class="testimonials section">
+  <div class="container">
+    <div class="section-head"><div class="eyebrow dark">CLIENT STORIES</div><h2>What Our Clients <em>Say</em></h2></div>
+    <div class="testimonial-grid">
+      <article><div class="quote">“</div><p>Patel Construction delivered our dream home beyond expectations. The team was professional and transparent throughout.</p><strong>Rohit Sharma</strong><small>Homeowner • Kanpur</small><div class="stars">★★★★★</div></article>
+      <article><div class="quote">“</div><p>Our office looks amazing. The design quality and finish are exactly what we wanted. Highly recommended.</p><strong>Anjali Verma</strong><small>Business Owner • Lucknow</small><div class="stars">★★★★★</div></article>
+      <article><div class="quote">“</div><p>Excellent work and great support throughout the project. Very satisfied with the service and execution.</p><strong>Amit Singh</strong><small>Client • Allahabad</small><div class="stars">★★★★★</div></article>
+    </div>
+  </div>
+</section>
+
+<section class="contact section dark-section" id="contact">
+  <div class="container contact-grid">
+    <div>
+      <div class="eyebrow">GET IN TOUCH</div>
+      <h2>Let's Discuss Your <em>Project.</em></h2>
+      <p>Share your requirements and our team will get back to you with the next steps.</p>
+      <div class="contact-info">
+        <a href="tel:+917985230018"><span>☎</span> +91 79852 30018</a>
+        <a href="mailto:patelconstruction@example.com"><span>✉</span> patelconstruction@example.com</a>
+        <div><span>⌖</span> 128/95 Y Block, Ground Floor, Near Naubasta Chauraha, Anand Nagar, Kanpur-208011, Uttar Pradesh</div>
+      </div>
+    </div>
+    <form class="contact-form" id="contactForm">
+      <div class="form-row"><input required type="text" placeholder="Your Name"><input required type="tel" placeholder="Phone Number"></div>
+      <input required type="email" placeholder="Email Address">
+      <select><option>Choose Service</option><option>Residential Construction</option><option>Commercial Construction</option><option>Interior Design</option><option>Renovation</option></select>
+      <textarea required rows="5" placeholder="Tell us about your project..."></textarea>
+      <button class="btn btn-gold" type="submit">Send Enquiry →</button>
+      <p class="form-note" id="formNote"></p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="footer">
+  <div class="container footer-grid">
+    <div class="footer-brand"><a href="#home" class="brand"><span class="brand-mark">PC</span><span><strong>PATEL</strong><small>CONSTRUCTION</small></span></a><p>Building Spaces. Creating Lifestyles.</p></div>
+    <div><h4>Quick Links</h4><a href="#about">About Us</a><a href="#services">Services</a><a href="#projects">Projects</a><a href="#gallery">Gallery</a></div>
+    <div><h4>Our Services</h4><a href="#services">Residential Construction</a><a href="#services">Commercial Construction</a><a href="#services">Interior Design</a><a href="#services">Renovation</a></div>
+    <div><h4>Contact</h4><a href="tel:+917985230018">+91 79852 30018</a><a href="mailto:patelconstruction@example.com">Email Us</a><p>Kanpur, Uttar Pradesh</p></div>
+  </div>
+  <div class="copyright"><div class="container">© 2026 Patel Construction. All Rights Reserved. <span>Privacy Policy · Terms & Conditions</span></div></div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
